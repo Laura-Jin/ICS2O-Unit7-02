@@ -1,7 +1,7 @@
 // Connects the button 'answer' to the function 'buttonOne'
 document.getElementById('answer').addEventListener('click', buttonOne)
 
-// Creates a variable named number and sets it to 0 
+// Creates a variable named number and sets it to 0
 let number = 0
 
 function buttonOne () {
